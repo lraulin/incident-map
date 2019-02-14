@@ -1,8 +1,8 @@
 const express = require("express");
-const app = express();
-const postgres = require("./postgres/postgresModule.js");
-const { tweetStreamer } = require("./tweetStream.js");
+const { postgres } = require("./postgres.js");
+const { tweetStreamer } = require("./tweetStreamer.js");
 
+const app = express();
 console.log("Attempting to start server...");
 
 // Start streaming Tweets.
