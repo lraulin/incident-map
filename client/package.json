@@ -15,7 +15,7 @@
     "jquery": "^3.3.1",
     "kleur": "3.0.2",
     "local-storage": "^1.4.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "material-ui": "0.20.2",
     "node-sass": "^4.11.0",
     "node-where": "^1.1.0",
