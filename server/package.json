@@ -11,7 +11,7 @@
     "@stamp/required": "^1.0.1",
     "bunyan": "^1.8.12",
     "esm": "^3.2.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "firebase-admin": "~6.0.0",
     "firebase-backup": "^0.0.3",
     "firebase-functions": "^2.1.0",
